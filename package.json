@@ -11,13 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/tjthiagocosta/ecommerce-rest-api.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Thiago Costa",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tjthiagocosta/ecommerce-rest-api/issues"
-  },
-  "homepage": "https://github.com/tjthiagocosta/ecommerce-rest-api#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.5",
